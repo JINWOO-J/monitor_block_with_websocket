@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "icon-sdk-js": "^1.5.2"
+  }
+}
